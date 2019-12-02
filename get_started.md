@@ -180,3 +180,5 @@ nfc.read.start({rate:100, info:true}, (code, tag)=>{
 You can read or write to various types of NFC tags using the [MATRIX Lite NFC JS Library](https://matrix-io.github.io/matrix-documentation/matrix-lite/js-reference/nfc/)
 - Set the LEDs to green when an NFC tag with a specific UID is detected
 - Write a URL of your choice to an NFC tag
+
+Move on to [creating Snips Assistant](snips_assistant.md).

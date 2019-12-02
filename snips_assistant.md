@@ -55,3 +55,5 @@ On the Snips console for your `robotState` app, click on "Deploy Assistant" on t
 ![](images/deploy_assistant.png)
 
 Copy the `sam install ...` line and paste it into your PC's terminal to automatically deploy the `robotControl` assistant to the Raspberry Pi.
+
+Move on to [coding actions](voice_to_actions.md).

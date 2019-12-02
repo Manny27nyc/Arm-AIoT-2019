@@ -22,4 +22,4 @@ sudo npm install -g snips-sam
 - 3 x GPIO wires for motor
 - 2 x NFC stickers
 
-
+Move on to [introduction](introduction.md).

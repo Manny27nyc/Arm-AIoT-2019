@@ -182,3 +182,4 @@ module.exports = methods;// Export methods in order to make them avaialble to ot
 ```
 </details>
 
+Move on to [bonus challenge](im_bored_challenge.md).

@@ -25,3 +25,4 @@ The image provided has the following packages installed on the *Raspbian Stretch
 - [MATRIX Lite JS](https://matrix-io.github.io/matrix-documentation/matrix-lite/getting-started/javascript/) : JavaScript wrapped around MATRIX HAL for easy "one line of code" programming
 - [MATRIX Lite NFC JS](https://matrix-io.github.io/matrix-documentation/matrix-lite/js-reference/nfc/) : NFC library wrapped around MATRIX HAL NFC which programs the PN512 NXP NFC chip to read/write to NFC tags
 
+[Get Started](get_started.md) with coding.
