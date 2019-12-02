@@ -24,7 +24,7 @@ The content for this workshop will show you how to create an offline voice assis
 
 ## Resources:
 - ### [Arm AIoT Website](https://armsummit.bemyapp.com/)
-- ### [Workshop Image]()
+- ### [Workshop Image](https://drive.google.com/file/d/1MqdJ7R5wKYJ8oXC3h9x08qKn5pLVQ1Bc/view?usp=sharing)
 - ### [MATRIX Documentation](https://docs.matrix.one)
 - ### [MATRIX Community](https://community.matrix.one)
 - ### [Snips.ai Website](https://snips.ai/)
