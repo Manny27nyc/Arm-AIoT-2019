@@ -107,7 +107,8 @@ nfc.read.start({rate:250, info:true}, (code, tag)=>{
         if (IMUcontrol === false && tag.info.UID === ON_TAG_UID) {
             IMU.controlServo(true);
             IMUcontrol = true;
-        } else if (IMUcontrol === true && tag.info.UID === OFF_TAG_UID) {
+        } 
+	else if (IMUcontrol === true && tag.info.UID === OFF_TAG_UID) {
             IMU.controlServo(false);
             IMUcontrol = false;
         }
@@ -149,7 +150,8 @@ function setServo(servoAngle){
 const scale = (num, in_min, in_max, out_min, out_max) => {
     if (num < in_min) {
       num = in_min;
-    } else if (num > in_max) {
+    } 
+    else if (num > in_max) {
       num = in_max;
     }
     return (num - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
@@ -171,7 +173,8 @@ methods.controlServo = function(flag) {
             console.log(servoAngle);
         }, 100);
         console.log("IMU controlling servo");
-    } else {
+    } 
+    else {
         clearInterval(intervalID);
         console.log("stopping IMU control");
     }
