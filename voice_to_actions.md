@@ -83,7 +83,7 @@ client.on('message', function(topic,message) {
                     /////////////////////////
 
                     IMU.controlServo(false);
-                    IMUcontrol = true;
+                    IMUcontrol = false;
 
                     console.log('Robot Off');
                 }
