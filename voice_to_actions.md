@@ -44,8 +44,8 @@ const nfc = require("@matrix-io/matrix-lite-nfc");
 //////////////////////////////
 
 client.on('connect', function() {
-	console.log("Connected to localhost");
-	client.subscribe(wakeword);
+    console.log("Connected to localhost");
+    client.subscribe(wakeword);
     client.subscribe(sessionEnd);
     client.subscribe(robotState);
 });
