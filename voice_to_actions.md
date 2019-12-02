@@ -180,7 +180,7 @@ methods.controlServo = function(flag) {
     }
 };
 
-module.exports = methods;// Export methods in order to make them avaialble to other files
+module.exports = methods;// Export methods in order to make them available to other files
 
 ```
 </details>
