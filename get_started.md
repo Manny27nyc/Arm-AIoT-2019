@@ -104,7 +104,7 @@ setInterval(function(){
 
 How could you utilize the sensor data?
 - Turn the LEDs on and off based on temperature sensor data
-- Write a brief program to turn the LEDs green when the MATRIX Creator us facing up and red otherwise
+- Write a brief program to turn the LEDs green when the MATRIX Creator is facing up and red otherwise
 
 ## GPIOs
 
