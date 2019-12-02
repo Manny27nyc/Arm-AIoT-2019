@@ -24,7 +24,7 @@ robot.js
 /////////////
 //VARIABLES//
 /////////////
-var snipsUserName = "YOUR_SNIPS_USERNAME"; // change back to YOUR_SNIPS_USERNAME
+var snipsUserName = "YOUR_SNIPS_USERNAME"; // change to YOUR_SNIPS_USERNAME
 const matrix = require('@matrix-io/matrix-lite');
 var mqtt = require('mqtt');
 var client  = mqtt.connect('mqtt://localhost', { port: 1883 });
