@@ -156,6 +156,7 @@ GPIOs can be used to read external sensors or control components like motors
 ## NFC
 
 ![](images/nfc_smaller.gif)
+
 Open the `nfc.js` file. Code below.
 <details close>
 <summary>
